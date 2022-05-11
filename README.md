@@ -1,21 +1,21 @@
 # APISongLyrics
 Request Songlyrics to the MusixMatch API using SwiftUI
 
-Structure
+Structure:
 
-iOS/
-    Contains Xcode project for iOS application.
+iOS/ Contains the Xcode project for iOS application.
     
-    The user should introduce their personal APIKey in the APIKey file in order to be able to use this App. The API Key can be obtained on the following link -> https://developer.musixmatch.com/documentation
+    
+ The user should introduce their personal APIKey in the APIKey file in order to be able to use this App. The API Key can be obtained on the following link -> https://developer.musixmatch.com/documentation
 
-Requirements
+Requirements: 
 
-To run the iOS project, you must use Xcode 13.3 or later 
+    To run the iOS project, you must use Xcode 13.3 or later 
 
-Frameworks
+Frameworks:
 
-SwiftUI
-Foundation
+     SwiftUI
+     Foundation
 
 How it Works 
          
